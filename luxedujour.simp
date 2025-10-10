@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sim-project version="15.1" multi-file="no" uid="simp2854114b55e243aa836a84d192da7965" creation-date="10/10/2025 13:31:47">
+  <meta>
+    <name>luxedujour</name>
+    <authors>David Cadena</authors>
+    <description />
+  </meta>
+  <counters models="1">
+    <entity-names />
+    <entity-ids />
+    <diagrams>
+      <counter>
+        <type>SoftwareIdeasModeler.Core.Diagrams.UmlDiagrams.UmlUseCaseDiagram</type>
+        <value>1</value>
+      </counter>
+    </diagrams>
+    <fields />
+  </counters>
+  <alias-groups />
+  <management uid="md-f468eb7794e646b2ae393f9ab3b0d36d" name="" task-id-sequence="0">
+    <persons>
+      <person id="">
+        <first-name>David</first-name>
+        <last-name>Cadena</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+      </person>
+    </persons>
+    <teams />
+    <sprints />
+    <projects />
+    <modules />
+    <tasks />
+    <to-dos />
+  </management>
+  <glossary id="glsr-a15417315a954354a8482eaae625cd88" name="" order-index="-1" />
+  <types default="UML">
+    <type-sets>
+      <type-set file="UmlTypes.xml" />
+    </type-sets>
+    <custom-types>
+      <parameters />
+      <types />
+    </custom-types>
+  </types>
+  <items />
+  <models>
+    <model id="p07888820e5214947a7a264e5f34a6676_650413576" name="Model1" namespace="" order-index="1">
+      <meta>
+        <authors>
+          <author>David Cadena</author>
+        </authors>
+        <description />
+        <creation-date>10/10/2025 13:32:56</creation-date>
+        <change-date>01/01/0001 00:00:00</change-date>
+        <revision-count>0</revision-count>
+        <version />
+      </meta>
+      <abstract-items />
+      <sub-models />
+      <diagram type="uml-usecase" id="p7fc8ed253cb74319a26faa337f86e03c_278818249" name="UseCaseDiagram1" order-index="1" uid="" name-style="" auto-routed-paths="false" default-line-style="default">
+        <style>
+          <background-color index="1" color="#FFFFFFFF" />
+          <background-color index="2" color="#FFFFFFFF" />
+          <background-type type="solid" />
+        </style>
+        <meta>
+          <authors>
+            <author>David Cadena</author>
+          </authors>
+          <description />
+          <creation-date>10/10/2025 13:32:56</creation-date>
+          <change-date>10/10/2025 13:32:56</change-date>
+          <revision-count>0</revision-count>
+          <version />
+        </meta>
+        <abstract-items />
+        <layer id="f60f2f8db0764c208dd6046b30136691" name="Default" visible="true" enabled="true" locked="false" />
+      </diagram>
+    </model>
+  </models>
+</sim-project>
